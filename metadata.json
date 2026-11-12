@@ -1,0 +1,6 @@
+{
+  "name": "BVA Decoder - Brain Visual-Audio Research Platform",
+  "description": "Professional research platform for analyzing EEG recordings with visual and audio stimuli using multimodal AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
